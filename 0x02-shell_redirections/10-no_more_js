@@ -1,1 +1,2 @@
-#!/bin/bash\nrm -R ./*.js
+#!/bin/bash
+rm -R ./*.js
